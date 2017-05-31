@@ -1,4 +1,4 @@
-_Want to learn more about this document? [View our readme »](/readme.md)_
+_Want to learn more about this document? [View our readme »](/README.md)_
 
 ---
 
