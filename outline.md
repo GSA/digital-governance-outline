@@ -1,3 +1,7 @@
+_Want to learn more about this document? [View our readme »](/readme.md)_
+
+---
+
 # Outline: Digital Governance Policy
 #### I. INTRODUCTION
 - Purpose of the document
