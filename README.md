@@ -17,3 +17,5 @@ Start by using this document to map out a governance plan for your agency. Let u
 **NOTE: This document is a working draft.** additional questions about this document can be sent to digitalgov@gsa.gov.
 
 ## [View the Draft Outline »](/outline.md)
+
+_or download a PDF of the [Digital Governance Policy Outline](./v1.1-OutlineDigitalGovernancePolicy.pdf) »_
