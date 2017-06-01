@@ -19,3 +19,11 @@ Start by using this document to map out a governance plan for your agency. Let u
 ## [View the Draft Outline »](/outline.md)
 
 _or download a PDF of the [Digital Governance Policy Outline](./v1.1-OutlineDigitalGovernancePolicy.pdf) »_
+
+----
+
+### Colleciton of Agency Digital Governance Plans
+- DOD — http://dodcio.defense.gov/DoD-Web-Policy/
+- HHS — https://www.hhs.gov/web & https://www.hhs.gov/web/governance/index.html
+
+A list of agency Digital Strategy Pages — https://gsablogs.gsa.gov/dsic/strategy-milestones/agency-digital-strategy-pages/
