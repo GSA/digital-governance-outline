@@ -11,8 +11,8 @@ Members of the Digital Council are leading this effort.
 #### How to contribute:
 Start by using this document to map out a governance plan for your agency. Let us know what needs to be changed.
 1. Start a discussion on web-council@listserv.gsa.gov about what you would like to see changed.
-2. Edit the page on Github: https://github.com/GSA/digital-governance-outline/
-3. Comment on the Google Doc _(if you have access)_ http://bit.ly/2qC4x1J
+2. Create an issue on Github and leave comments https://github.com/GSA/digital-governance-outline/issues
+2. Or directly edit the page on Github https://github.com/GSA/digital-governance-outline/
 
 **NOTE: This document is a working draft.** additional questions about this document can be sent to digitalgov@gsa.gov.
 
