@@ -2,9 +2,9 @@
 
 ##### Version 1.1
 _Last updated: May 31, 2017 by Jeremy Zilar_
-https://digitalgov.gov/digital-governance-policies
+https://digital.gov/digital-governance-policies
 
-This document is a collaboration between federal agencies around what should types of information should be in our digital governance policies. It was originally published on [DigitalGov.gov](DigitalGov.gov) back in 2014 and has since been revived as a starting point for this collaboration.
+This document is a collaboration between federal agencies around what should types of information should be in our digital governance policies. It was originally published on [Digital.gov](Digital.gov) back in 2014 and has since been revived as a starting point for this collaboration.
 
 Members of the Digital Council are leading this effort.
 
