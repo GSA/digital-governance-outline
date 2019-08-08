@@ -1,4 +1,4 @@
-_Want to learn more about this document? [View our readme »](/README.md) or contribute here: https://digitalgov.gov/digital-governance-policies _
+_Want to learn more about this document? [View our readme »](/README.md) or contribute here: https://digitalgov.gov/digital-governance-policies_
 
 ---
 
